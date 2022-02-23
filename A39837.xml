@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The imperfection of most governments taken out of the Epitomy of the Roman history written by Lucius Annæus Florus : where it plainly appears that the liberty of the most flourishing common-wealth of the Romans destroyed written by Roger Trusty.</title>
+            <title>Epitomae de Tito Livio bellorum omnium annorum DCC libri II. English. Selections</title>
+            <author>Florus, Lucius Annaeus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39837</idno>
+            <idno type="STC">Wing F1381A</idno>
+            <idno type="STC">ESTC R3394</idno>
+            <idno type="EEBO-CITATION">11882797</idno>
+            <idno type="OCLC">ocm 11882797</idno>
+            <idno type="VID">50331</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39837)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50331)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 29:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The imperfection of most governments taken out of the Epitomy of the Roman history written by Lucius Annæus Florus : where it plainly appears that the liberty of the most flourishing common-wealth of the Romans destroyed written by Roger Trusty.</title>
+                  <title>Epitomae de Tito Livio bellorum omnium annorum DCC libri II. English. Selections</title>
+                  <author>Florus, Lucius Annaeus.</author>
+                  <author>Trusty, Roger.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Langley Curtiss ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translation of: Epitomae de Tito Livio bellorum omnium annorum DCC libri II.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rome --  History --  Republic, 510-30 B.C.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:50331:1"/>
+            <pb n="1" facs="tcp:50331:1" rendition="simple:additions"/>
+            <head>THE IMPERFECTION Of moſt Governments, Taken out of the EPITOMY of the <hi>ROMAN HISTORY:</hi> Written by <hi>Lucius Annaeus Florus.</hi>
+            </head>
+            <argument>
+               <p>Where it plainly appears that the Liberty of the moſt Flouriſhing Common-wealth of the <hi>Romans</hi> deſtroyed all Property, and its own Government turned to Level<g ref="char:EOLhyphen"/>ling, Diſcord and Confuſion, till it brought in the Government it moſt hated.</p>
+               <p>With a Reaſon or two added why, all Great and Free Commonwealths will be ſub<g ref="char:EOLhyphen"/>ject to the ſame.</p>
+            </argument>
+            <byline>Written by <hi>Roger Truſty.</hi>
+            </byline>
+            <floatingText type="letter">
+               <body>
+                  <head>To all my Country Men whoſe only Love of their Nation, in<g ref="char:EOLhyphen"/>clines them to a Commonwealth; I would but ſhew all Pow<g ref="char:EOLhyphen"/>ers equally frail.</head>
+                  <opener>
+                     <salute>GENTLEMEN,</salute>
+                  </opener>
+                  <p>
+                     <hi>I Had no Deſign to cry down Liberty, nor diſparage Common-wealths. I love no coer<g ref="char:EOLhyphen"/>cive power in Church or State, more than is neceſſary for preſervation of the publick <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eace, but I preſume you would not incline your Nation in Blood and Rapine on a miſtake; <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſpecially when the Major part of our own three Kingdoms are like to differ from you, and <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>wo hundred thouſand French in Arms, are neglecting their other advantages on Chriſten<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ome, to incorporate themſelves in your Common wealth, by yoar own Fire-ſides with your <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ives and Daughters when you Rebel. I ſuppoſe thoſe Jealouſies will be more inſupporta<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>le to you than your preſent ones, when you have Read here what you may find in</hi> Florus; <hi>
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> not, I muſt conclude you are more inclined to bring in Popery than I could wiſh you, for <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>our ſuppoſed unerring Government.</hi>
+                  </p>
+                  <p>
+                     <hi>I would have many Readers, and therefore have contracted a Subject fit for a <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ollume to a two-peny Pamphlet, which can be but half an hours trouble to any man, if <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>y endeavours do you and my Contry a kindneſs, I have the only End aimed at, by</hi>
+                  </p>
+                  <closer>
+                     <signed>Your humble Servant, <hi>Roger Truſty.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>IT is unknown to no Body that reads Hiſtorys, that the <hi>Romans</hi> had ſeven Kings in their Infancy, moſt of them Elected, and ſix of them good Princes, who did cultivate them with Religion, Virtue, Arts and Arms according to their Mode: but the ſeventh was a Uſurper, <hi>Tarquin</hi> the Proud, a Man naturally Wicked, but neceſſitated by his Uſurpation to continue a Tyrant, becauſe all Perſons or Powers muſt maintain ſuch Wrongs by a ſtandng Army, which turns the beſt Gover-ments that can be to the worſt.</p>
+            <p>But his Own and his Wives inſupportable Humor, with his Sons barbarous Rape of the fair and vertuous <hi>Lus <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>coelia;</hi> gave the icenſed <hi>Romans</hi> a unanimous Courage to revolt from him, and Kingly Government together.</p>
+            <pb n="2" facs="tcp:50331:2"/>
+            <p>But though their attempts was ſucceſsful, it was hardly maintained againſt their Neighbours the <hi>Latins,</hi> and eſpecially againſt <hi>P<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſenna</hi> King of the <hi>Hetourians,</hi> who Armed for <hi>Tarquin,</hi> (though they could find nothing Love<g ref="char:EOLhyphen"/>ly in him,) becauſe they did not like ſuch a preſident for depoſing of Kings.</p>
+            <p>But the <hi>Romans</hi> I find (in the ninth Chapter and firſt Book of <hi>Florus</hi>) did ſubmit to the Model and Perſons of <hi>Brutus</hi> and <hi>Colla-tine</hi> the Husband of <hi>Lucretia</hi>) whom they firſt obeyed as Conſuls or Annual Kings: but the People removed <hi>Collatine</hi> (becauſe aliened to <hi>Tarquin</hi>) and choſe <hi>Valerius Publicola</hi> in his place, in whoſe Conſulſhip it was ordained, that there ſhould be Appeals from the Sentences of the Conſuls to the People, which made the Government an abſolute Common wealth; and this ſeemed alaſting Foundation of Liberty, and their continual Wars with their Neighbours kept them at Unity longer than ſo great a Common-wealth could otherwiſe have been; for the <hi>Grecian</hi> and <hi>Italian</hi> Common-wealths ſubſiſted by their ſmalneſs. <hi>Venice</hi> is an Ariſtocracy, or Tyranny of the Nobility, and the States of <hi>Holland</hi> are ſo little accountable to their People, and ſo great Taxers even of Tra<g ref="char:EOLhyphen"/>vellers on their neceſſary occaſions, that they may be called ſo too. But to come to the ſirſtr Buds of diſorders, in the only conſiderable Common-wealth that ever was, except the Carthaginian. <hi>Florus</hi> his firſt Book and two and twentieth Chapter begins with their Armies, who preſuming on Liberty, ſtoned their <hi>General Poſthumus,</hi> for diſappointing them of a Booty he had promiſed, and another time when they might have vanquiſhed the Enemy under their General <hi>Apius Claudius</hi> they refuſed to Fight.</p>
+            <p>And in the ſame Chapter is mentioned; that one <hi>Valeron</hi> having animated the People againſt their Conſul, they all refuſed to be involved for Souldiers, and broke the Rods carried before the Conſul, as well as his Commands, this Chapter farther ſays, that they grew ſo hardy as to ſend into Baniſhment the moſt excellent of the nobility whom they believed oppoſite to their unbridled deſires, and <hi>Coriolanus</hi> would have obliged them to till the Earth, for which they baniſhed him: but he was able to beſiege <hi>Rome</hi> for this, and had Ruin'd their Government, had not Interceſſion prevailed.</p>
+            <p>
+               <hi>Camillius</hi> was alſo baniſhed by them, becauſe they pretended that he had not made an equal partition of the ſpoils of the <hi>Veens,</hi> Conquered by him between the Army and People.</p>
+            <p>Though this gallant and honeſt man, Armed afterward at their interceſſion againſt the <hi>Gauls,</hi> poſſeſt at <hi>Rome,</hi> and ſav'd them from Ruine by beating them out, and then without Revenge lived and died peaceably amongſt them. And this pregnant Chapter tells us of two vehement Conteſts between the Senate and People which Paſt the Bounds of Reaſon and Equity, for the Sedition was ſo great, that the People abandoned their Houſes and threatned to make a Deſart of the Town, and bury it in its Ruines.</p>
+            <p>The three and twentieth Chapter, firſt Book, mentions a Civil diſcord, but on a more Juſt occaſion againſt Uſurers, which was appeaſed by an Oration.</p>
+            <p>The four and twentieth Chapter and firſt Book, tells us of an other Sedition, cauſed by the Uſurpation of the <hi>Decemury,</hi> chief Citizens, Commanded by the people to contract the <hi>Greek</hi> Laws into twelve Tables, but theſe Fa<g ref="char:EOLhyphen"/>vorites of the people were ſo inſolent, when they had executed their Commiſſion, to continue their Authority, and ſo far to Tyranniſe: that <hi>Appius</hi> one of their number attempted to Raviſh a noble Maid, procur'd an unjuſt Sen<g ref="char:EOLunhyphen"/>tence to paſs againſt her, and cauſed her to be draged as a Slave, till her Father <hi>Virginius</hi> tore her from them, killed her in the Street, and than found a party ſtrong enough, to ſubdue and impriſon that inſolent Magiſtrate.</p>
+            <p>The twentieth fifth Chapter, firſt Book, mentions a Sedition of the people, about Marriage into the Familys of <hi>Senators,</hi> and <hi>Cammilus</hi> tribune of the people was the Author of that Tumult.</p>
+            <p>The twenty ſixth Chapter, firſt Book mentions another Commotion about admittance to Dignities equally with the Nobles, which they extorted from the Senate.</p>
+            <p>They cauſed <hi>Spurius Caſſius</hi> to be Murdered on a bare ſuſpition of affecting <hi>Royalty.</hi>
+            </p>
+            <p>They alſo deſtroyed <hi>Metius</hi> on the ſame diſtruſt meerly for being liberal to themſelves.</p>
+            <p>And for <hi>Manlius</hi> who had defended the Capital for them againſt the <hi>Gaules:</hi> they for a puniſhment of his Pride precipitated from the top of the Rock: which he had preferved, as the laſt ſtake of his ingrateful People, and theſe were the Diſeaſes of this infant Commonwealth, all in the firſt Book of <hi>Florus</hi> whilſt <hi>Italy</hi> was ſcarce yet ſeb<g ref="char:EOLhyphen"/>dued.</p>
+            <p>But all this while the <hi>Comunes</hi> (being Warlike, well Arm'd and diſciplined.) proſpered in their VVars though ſlowly, for they were five hundred years in ſubduing <hi>Italy.</hi>
+            </p>
+            <p>But their next quarel being with the great <hi>Cathaginian</hi> Common-VVealth, thoſe effiminate <hi>Affricans</hi> were worſt<g ref="char:EOLhyphen"/>ed by Sea and Land, and juſtled out of <hi>Sicily, Sardinia,</hi> and almoſt all <hi>Spain,</hi> till the great <hi>Hannibal</hi> General of the <hi>Carthaginians,</hi> entertaining great Bodys of <hi>Gaules</hi> and <hi>Spaniſh</hi> Horſe, beat them in four ſet Battails, and had ruin'd them, if his factious Common-wealth had not retarded his ſupplys, to purſue his Victory whilſt the <hi>Romans</hi> were dejected, but they recovered and beat his ſupplys, and then invading <hi>Affrick, Hannibal</hi> was forced to ſhip his Foot and leave his Victorious Horſe, and was beaten in <hi>Affrick,</hi> and <hi>Carthage</hi> ſubdued.</p>
+            <p>So that <hi>Affrica</hi> fell into their Hands, as eaſily as the Effeminate <hi>Aſiatiques</hi> afterwards did, ſo that the Conqueſt of thoſe two parts of the World in two hundred years, (with ſome pieces in <hi>Europe</hi> was not ſo ſtrange as <hi>Florus</hi> would have it) for <hi>Alexander</hi> the great, did almoſt the ſame in ten years.</p>
+            <p>But I pretend not to VVrite their Hiſtory, but only for a Hint that there great VVars kept the more united at Home.</p>
+            <p>For to return to my Undertaking, the thirteenth Chapter of the third Book of <hi>Florus,</hi> tells us plainly, that the Power of the Tribunes of the People, was the ſourſe and cauſe of the Seditions of the Multitude.</p>
+            <p>For they being well deſigned as Orators and Advocates for their Preſervation, ſought to increaſe their Authority, and Favour, by propoſing plauſible Laws in their behalf,</p>
+            <list>
+               <item>1. As for the dividing of Lands and Inheritances for their Uſe.</item>
+               <item>2. The giving away Corn to the poorer Citizens.</item>
+               <item>3. And the reducing of Cauſes Publick and Private to their Judicature.</item>
+            </list>
+            <p>All theſe had ſhews of Juſtice, for what could ſeem more equitable, then that the People, ſlould recover their Original Rights from the incroachment of the Senators.</p>
+            <p>And that they injoying the Government of Provinces, the Knights might ſuſtain their Dignities, by the
+<pb n="3" facs="tcp:50331:2"/>Profits of Cauſes and Judgments yet theſe things (ſays my Author) tended to the Ruin of the Common-Wealth, for it ſeems that the transferring the Judicature, ſoon brought the Publick Tribute or Revenue to nothing, and the charging the Corn of the Poor on the publick Treaſure, and waſted that alſo, and (as <hi>Florus</hi> ſayeth) weak<g ref="char:EOLhyphen"/>ned the very Nerves of the Common-Wealth, and how (ſays he) could one give back to the People; their ancient Lands, without Ruining thoſe who poſſeſt them, and who were a part of the People alſo, and injoyed thoſe Lands as the Inheritances of their Anceſtors, by proſcription of time.</p>
+            <p>And now the fourteenth Chapter of the third Book, tells us of <hi>Tiberius Bracchus</hi> an eioquent and graceful Tri<g ref="char:EOLhyphen"/>bune of the People, who mounted the Tribunal, and propoſed a Law to paſs by Votes of the People, for taking away Lands from the owners, (and by three Comiſſioners than appointed) to give them to ſuch Levellers as moſt wanted them, the Nobility, the owners, and ſome of his Fellow Tribunes oppoſed him.</p>
+            <p>But he caus'd <hi>Eneus Octaivus</hi> his Fellow Tribune, to be thrown of the Tribunal, threatned him with Death and made him quit his Office, but though he prevailed then.</p>
+            <p>He Mounted another day, and then the Nobility and Owners fell to Blows with him, made him flye to the Capi<g ref="char:EOLhyphen"/>tal, where touching his Head to move the People to defend him, one <hi>Scipio Naſica</hi> animated the people againſt him, with pretence that he wanted a Diadem, upon which ſuppoſition his expected Protectors turned his immediate de<g ref="char:EOLhyphen"/>ſtroyers, for they gave him no Audience before they killed him.</p>
+            <p>In the next Chapter his Brother <hi>Caius Gracchus</hi> purſued the ſame hopes, with larger promiſes to the Peo<g ref="char:EOLhyphen"/>ple.</p>
+            <p>But one of the Tribunes oppoſed him, and they firſt killed his Friends, and the Conſul <hi>Opinius</hi> Maſſacred him.</p>
+            <p>The ſixteenth Chapter third Book, tells us that notwithſtanding this <hi>Aprielus Saturninus</hi> ſupported by the Ge<g ref="char:EOLhyphen"/>neral <hi>Marius,</hi> always an Enemy of the Nobility renewed the quarrel of the <hi>Gracchi, Marius</hi> cauſed <hi>Annius</hi> the Compeditor of <hi>Saturninus</hi> to be publickly Murdered, they forcibly ſubſtituted a new Tribune another <hi>Gracchus,</hi> a mean Man: but <hi>Saturninus</hi> forced the Senate to paſs the Laws of the <hi>Gracchi,</hi> threatning to deprive the Oppoſers the uſe of Fire and Water.</p>
+            <p>This <hi>Saturninus</hi> continued his Uſurpation three years, was choſen Conſul, cauſed his Collogue <hi>Caius Memmius</hi> to be Murdered, to ſubſtitute one <hi>Glaucias</hi> an inſtrument of his Civility in his Room, but the Senate at laſt was ſo Ivi<g ref="char:EOLhyphen"/>tated at his Outrages and <hi>Marius</hi> forſaking him, and Bandying againſt him their Forces, made him flye to the Capitol, but beleaguering him there, and cutting off his Water, he Capitulated, Submitted, and ſeemed Penitent, and was admitted into the Senate Houſe, where the people (whoſe Laws he had aſſerted) broke in forcibly upon him, and after an aſſault with Cudgels, and other Inſtruments of Indignation, they Tore and Cut him to pieces.</p>
+            <p>But at laſt the Laws of the <hi>Gracchi</hi> were eſtabliſhed, by new Violencies, the power of the Senate abated, and that of the Knights ſo exalted, tbat they had the Lives and Fortunes of the Senate, People, and Nobility at their deſpoſe: ſeized the publick Revenues, and all <hi>Italy</hi> fell into Rebellion, which the <hi>Romans</hi> at laſt with much Blood and hazard quenched, as appears in the 17th and 18th Chapters of the third Book, and it alſo appears, tbat theſe Diviſions between Senate and Tribunes gave Courage to the very Slaves to Rebel againſt their Maſters, in the following Chapter.</p>
+            <p>And this was the natural Corruption and Club-Law of this Free-Comman-wealth, mixt Government, where my Lords, the People could never agree with their own Truſtees, longer than their Common Enemies obliged them, but theſe were the beginnings of their Miſeries, the People had Liberty, and a free Common-wealth was deſigned to preſerve property, but I fear that in any great Kingdome or Empire it does neceſſarily deſtroy it.</p>
+            <p>For now in the 21 Chapter of the third Book of <hi>Florus Marius</hi> a Popular General of high Reputation, aſſiſted by <hi>Sulpitious</hi> the Tribune of the People procured his own Election by them, to go fight <hi>Mitridates,</hi> though <hi>Sylla</hi> had the Commiſſion, and was ſuccesfully imployed before him by the general Votes of the Senate.</p>
+            <p>But <hi>Sylla</hi> not able to indure this injury, returns with his Army and enters <hi>Rome</hi> with Fire and Sword, Slaughters and pro<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ribes <hi>Marius</hi> his Party and he hardly eſcaped in the Diſguiſe of a Slave.</p>
+            <p>
+               <hi>But Cinna</hi> and <hi>Octavius</hi> being Conſuls, they divided, one being for <hi>Marius</hi> and his Party, and the other for <hi>Sylla</hi> and the Senate, but though both were Arm'd, <hi>Cinna</hi> was chaced away to the baniſhed.</p>
+            <p>But <hi>Marius</hi> returning out of <hi>Africk,</hi> his Party flocked to him breaks open Priſons, and making up an Army, Marches to <hi>Oſtia</hi> and ſacks it, his Army then enters <hi>Rome,</hi> and ſpilt more Blood (ſays my Author) of the Sena<g ref="char:EOLhyphen"/>tors and chief of the Citizens, than was ſhed at the Sack of <hi>Carthage.</hi>
+            </p>
+            <p>But <hi>Sylla</hi> returns again by long Marches from <hi>Aſia,</hi> was again Victorious. Young <hi>Marius</hi> and his diſpairing Party in <hi>Rome</hi> commit new ſlaughters, not ſparing the Temples.</p>
+            <p>
+               <hi>Sylla</hi> returns and perſeveres in Cruel Slaughters, when the War was ended, they were numberleſs whoſe Throats were Cut in the Town, till <hi>Furſidius</hi> told <hi>Sylla,</hi> that he muſt leave ſome alive to be Commanded, <hi>Sylla</hi> then made a Roll of two thouſand of the flower of Senators and Knights, which with ſeveral ſorts of tor<g ref="char:EOLhyphen"/>turing Deaths finiſhed the Cruelry at <hi>Rome,</hi> but not in other miſerable Cities of <hi>Italy.</hi>
+            </p>
+            <p>
+               <hi>Spain</hi> had alſo a ſhare of this Confuſion, in a long War under <hi>Sertorius,</hi> proſcribed by <hi>Sylla.</hi>
+            </p>
+            <p>The next ill effect of this Diſſention, was <hi>Catalines</hi> Conſpiracy, to have burnt <hi>Rome,</hi> who was hardly deſtroy<g ref="char:EOLhyphen"/>ed in a great Battel after the Diſcovery.</p>
+            <p>Notwithſtanding the <hi>Romans</hi> Victory over the Uſurping <hi>Cataline,</hi> which ſeemed to have reſetled their Common-wealth by the good Conduct of <hi>Cicero,</hi> the wiſe and Eloquent Conſul, <hi>Cato</hi> and other bold Senators, yet the World was grown ſo weary of their weak and factious Government, with the bloody miſchiefs it produced, that there was a continued ſucceſſion of Uſurpers on it.</p>
+            <p>For the ſecond Chapter of the fourth Book of <hi>Florus,</hi> tells us, That <hi>Pompey, Caeſar</hi> and <hi>Craſſus,</hi> uniting them<g ref="char:EOLhyphen"/>ſelves together did ſo over-awe the <hi>Jealous</hi> Senate and People of <hi>Rome,</hi> that without any Bloodſhed, they Govern<g ref="char:EOLhyphen"/>ed as three Princes, for ten years together, but <hi>Craſſus</hi> being ſlain in the <hi>Parthian</hi> War, and <hi>Julia</hi> the Daughter of <hi>Caeſar,</hi> and Wife of <hi>Pompey,</hi> dying alſo, the Link of the Triumvirat was broken and <hi>Caeſar</hi> and <hi>Pompey,</hi> who both aimed at Soveraign Power, were now to diſpute for the great Stake of the World together, <hi>Caeſar</hi> had fewer Nations, and leſs numerous Forces to follow him, but having made only the difficult Conqueſt of <hi>Gaul</hi> and <hi>Ger<g ref="char:EOLhyphen"/>many</hi>
+               <pb n="4" facs="tcp:50331:3"/>for the <hi>Romans;</hi> he knew thoſe Nations united to his invincible Courage, Conduct and Fortune might give a bold Defiance, to all the reſt of the World, his ſucceſs anſwerred his expectation, for he beat <hi>Pompeys</hi> Lieu<g ref="char:EOLhyphen"/>tenant in <hi>Spain</hi> and ſubdu'd it, drove him and the Senate together out of <hi>Italy;</hi> and at <hi>Pharſalia</hi> made the Victo<g ref="char:EOLhyphen"/>rious <hi>Pompey</hi> fly his Fury, and by his perſonal Valour got more difficult Victories of his Warlike Enemy in <hi>Africk</hi> and <hi>Spain,</hi> and returned Triumphant to <hi>Rome.</hi>
+            </p>
+            <p>But <hi>Brutus</hi> and <hi>Caſſius</hi> ambitious to reſtore their Common-wealth, cut down <hi>Caeſar,</hi> the greateſt and gallanteſt Uſurper that ever lived in the Senate, and <hi>Pompey</hi> being Dead before him, one would have thought that the Common-wealth of <hi>Rome</hi> muſt have been reſtored.</p>
+            <p>But the dead <hi>Caeſar</hi> had more Friends than the living Senate. The People of <hi>Rome</hi> were grown ſo weary of the Miſeries of their own exorbitant Power, that <hi>Brutus</hi> and <hi>Caſſius</hi> were forced to fly from <hi>Rome,</hi> to other Nations, to raiſe an Army to recover their laſt Common-wealth.</p>
+            <p>But the Major part of the <hi>Romans</hi> fought againſt them and their Old Government, and beat them under their Conduct of <hi>Auguſtus Caeſar</hi> and <hi>Anthony,</hi> and ſo ended this prodigious Common-wealth.</p>
+            <p>
+               <hi>Auguſtus Anthony,</hi> and <hi>Lepidus,</hi> afterwards ſet up a moſt Bloody Triumvirat, deſtroying by Proſcripti<g ref="char:EOLhyphen"/>on all the adverſe Faction, and all that had Power or Wealth to hurt them; and <hi>Auguſtus</hi> was the Cruelleſt of the three, whilſt he could lay the Faults upon his Colleagues; but when he prevailed upon them both, and became ſole Emperour; He prov'd a Wiſe, Juſt and Merciful Prince; which is a Note to me that the Abſolute Government of many Intereſts or Rulers in an Ariſtocracy, is a greater Ty<g ref="char:EOLhyphen"/>ranny and Oppreſſion then ſingle Perſons commonly are.</p>
+            <p>But ſome wicked Emperours ſucceeded, and at laſt the Armies Uſurped upon them, ſold and mur<g ref="char:EOLhyphen"/>dered them at Pleaſure till their Variety of Elections brought the Empire to decay; but the great <hi>Conſtantine</hi> Victorious over them all (though he advanced Chriſtianity) quite Ruined the Empire, by dividing it into Ea<g ref="char:EOLhyphen"/>ſtern and Weſtern.</p>
+            <p>By all which it appears, That Elective Empires, Uſurping Powers, and Factious Common-wealths, will be Governed and ruined by their or Forraign Armies; which makes the World affect Hereditary Crowns.</p>
+            <p>And now I ſhall add ſome brief Comments of my own, on this Hiſtorical Pamphlet, or Epitomy of the Roman Government When they threw off Kings, they made the moſt careful Proviſion againſt Oppreſſion and Cruelty; that a moſt Ingenious People could do; for they choſe two Conſuls, leſt one ſhould Uſurp or Tyranize; and leſt time ſhould give them too much power to Combine together; they made a yearly Relation or Change of thoſe two chief Magiſtrates and yet farther, to ſerve all on that ſide, they made Appeals from their Sentences to the People as the ſupream Power.</p>
+            <p>But they could not make ſuch an Annual Rotation or Alteration in the whole Body of the Senate or Council of State, for if that Power be not fixed in known wiſe Perſons improved by Practice and Experi<g ref="char:EOLhyphen"/>ence, no Treaties of War and Peace could go on, no private Leagues of weaker Nations againſt a ſtrong<g ref="char:EOLhyphen"/>er; or Intelligence from Forrain Counſels could be had; for it cannot be thought where Mens Lives and Fortunes depends upon Secrecy; that they will truſt new Miniſters of State every year; who come in igno<g ref="char:EOLhyphen"/>rant of the paſt Correſpondances and Tranſactions, nor can the Executive power of a Nation, betray Se<g ref="char:EOLhyphen"/>crets by giving a publick Account to the Legiſlative power; and if the Romans had not Lodg'd the Su<g ref="char:EOLhyphen"/>pream Power, and laſt Appeals to themſelves, they had ſet up an Ariſtocracy, or Confederacy of many interreſſed Families, with their Kindred, Friends and Relation to them. But they did not conſider that the pooreſt ſort of the people is the greateſt number, and that they muſt neceſſarily turn Levellers for two weighty Reaſons.</p>
+            <p>The firſt is becauſe they want what other Men have: And the other, becauſe none can Uſurp their Government but Rich men.</p>
+            <p>And therefore all Induſtrious men, that have gotten Eſtates muſt be taken down, to the de<g ref="char:EOLhyphen"/>ſtruction of all Traffick and Induſtry, for who will Labour for others to take their gains from them.</p>
+            <p>This having been the practiſe of the <hi>Roman</hi> Common-wealth, and the reaſons ſeeming apparent, that all great Nations repleniſhment with poor People will doe the ſame by themſelves or Truſtees, I muſt Con<g ref="char:EOLhyphen"/>clude as I began, with deploring the Inſufficiency with moſt or all Governments, and wiſhing we may all agree to ſtrengthen our old fabrick, ſince we may be knocked on the Head, in the pulling it down<g ref="char:punc">▪</g> but ſhall never agree on a new Building though Our potent Enemies ſhould let us alone.</p>
+            <p>And this was too evident in Our own Government in 1641. where the Lords and Commons de<g ref="char:EOLhyphen"/>poſed the King, the peoples Truſtees the Commons depoſed the Lords Houſe, and then depoſed of men<g ref="char:punc">▪</g> Lives and Fortunes by their Votes, as a perpetual ſtanding Ariſtocratical Tyranny deſpiſing the Laſt fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a Triennial Succeſſion of Parliaments as much as the other Laws of the Land, till after many years ſitting they were firſt Weeded and then Rooted out by their own Army; by which it appears, that the Peoples Truſtees can deſtroy Liberty and Poverty, as well as the People themſelves, the more to confirm the Imperfection of all Governments, when once the Rule of the Law is broken.</p>
+            <p>This Popular Army Governed as the <hi>Romans</hi> Army did, and uſed the Name of a Common-wealth ſomtimes, but were ſetled in nothing but their own Diviſions, till the Major part of them, and the peo<g ref="char:EOLhyphen"/>ple agreed to return to the ancient Law and Government of the Nation.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> Langley Curtiſs.</p>
+            <pb facs="tcp:50331:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
